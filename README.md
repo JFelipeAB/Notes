@@ -1,1 +1,1 @@
-# **Notas gerais sobre desenvolvimento***
+# **Anotações gerais de desenvolvimento**
